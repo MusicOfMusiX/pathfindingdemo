@@ -1,0 +1,5 @@
+# pygame
+pygame==2.0.1
+
+# testing
+python-ta==1.6.3
